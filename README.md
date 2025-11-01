@@ -1,4 +1,4 @@
-🌐 Connect with Me<br><br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  <br>[![Email](https://img.shields.io/badge/Email-azamat@example.com-red?style=flat&logo=gmail&logoColor=white)](mailto:azamat@example.com)<br><br>---<br><br>> *"Security is not a product, but a mindset."*  <br>> — and that’s exactly how I approach every line of code.<br>
+🌐 Connect with Me<br><br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  <br>[![Email](https://img.shields.io/badge/Email-azamat@example.com-red?style=flat&logo=gmail&logoColor=white)](mailto:azamat@example.com)<br><br>----<br><br>> *"Security is not a product, but a mindset."*  <br>> — and that’s exactly how I approach every line of code.<br>
 
 
 ## 🌐 Socials:
